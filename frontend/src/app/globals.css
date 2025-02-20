@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Vos styles personnalisés peuvent être ajoutés ici */
+.primary-color {
+  @apply bg-primary;
+}
+
+.primary-color-text {
+  @apply text-primary;
+}
+
+.primary-color-hover:hover {
+  @apply bg-primary-hover text-white;
+}
