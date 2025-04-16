@@ -1,0 +1,1 @@
+Ce projet consiste en la création de la partie backend d’une application web dédiée à la vente et l’achat de tableaux artistiques. L'application permet aux artistes de publier leurs œuvres, aux clients de parcourir les collections disponibles, de passer commande, et de gérer leurs achats.
